@@ -25,7 +25,6 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
    - [organize (cn.version) - G.X Zhao](Scalability/sosp19-kvell.md)
 * MatrixKV: Reducing Write Stalls and Write Amplification in LSM-tree Based KV Stores with Matrix Container in NVM (ATC 20)
 * ChameleonDB: a Key-value Store for Optane Persistent Memory (EuroSys 21)
-* TridentKV: A read-optimized LSM-tree based KV store via adaptive indexing and space-efficient partitioning. (IEEE TPDS 21)
 * SpanDB: A fast,Cost-Effective LSM-tree based KV store on hybrid storage.(FAST 21)
 * Leveraging NVMe SSDs for building a fast, cost-effective, LSM-tree-based KV store (ACM TOS 21)
 * p2KVS: A Portable 2-Dimensional Parallelizing Framework to Improve Scalability of Key-Value Stores (EuroSys 22)  
